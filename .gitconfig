@@ -1,3 +1,8 @@
 [user]
 	email = ladiesman9x@gmail.com
 	name = Nguyen Anh Tu
+[color]
+	ui = true
+	diff = auto
+	status = auto
+	branch = auto
